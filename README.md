@@ -66,6 +66,7 @@ Cada documento aqui é parte da minha trajetória de pesquisa e curiosidade infi
 ---
 
 ## 📊 Estatística, Dados & Programação Científica  
+- [Stochastic Finance Hans Follmer](https://github.com/IsabelCasPe/IsabelCasPe-MathVault/blob/main/Hans%20F%C3%B6llmer_%20Alexander%20Schied%20-%20Stochastic%20Finance_%20An%20Introduction%20in%20Discrete%20Time-De%20Gruyter%20(2016).pdf)
 - [Introduction to Statistics – An Intuitive Guide](Introduction%20to%20Statistics%20An%20Intuitive%20Guide%20for%20Analyzing%20Data%20and%20Unlocking%20Discoveries.pdf)  
 - [Introduction to Engineering and Scientific Computing with Python (CRC Press, 2022)](Introduction%20to%20Engineering%20and%20Scientific%20Computing%20with%20Python%20(2022,%20CRC%20Press)%20-%20libgen.li.pdf)  
 - [Research Software Engineering with Python (CRC, 2021)](Research%20Software%20Engineering%20with%20Python_%20Building%20software%20that%20makes%20research%20possible%20(2021,%20Chapman%20and%20Hall_CRC)%20-%20libgen.li.pdf)  
