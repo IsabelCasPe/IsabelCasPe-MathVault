@@ -1,6 +1,6 @@
 <!-- HEADER COSMIC -->
 <p align="center">
-  <img src="https://github.com/IsabelCasPe/IsabelCasPe/blob/main/banner_mathvault.png" alt="💎 MathVault – IsabelCasPe" width="100%">
+  <img src="https://github.com/IsabelCasPe/IsabelCasPe/blob/main/bannervault.png.png" alt="💎 MathVault – IsabelCasPe" width="100%">
 </p>
 
 <h1 align="center">💎 MathVault ♾️📚</h1>
