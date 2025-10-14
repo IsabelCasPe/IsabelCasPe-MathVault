@@ -18,6 +18,7 @@
 
 **MathVault** é o meu acervo pessoal de livros, papers e referências em **Matemática Aplicada, Sistemas Dinâmicos, Finanças e Ciência de Dados**.  
 Um espaço para guardar, estudar e compartilhar o conhecimento que impulsiona minhas pesquisas e inspira novas ideias. 💡✨  
+Cada documento aqui é parte da minha trajetória de pesquisa e curiosidade infinita. ♾️💫 
 
 > “O universo se expande, e o saber também.” — @IsabelCasPe
 
@@ -37,6 +38,13 @@ Um espaço para guardar, estudar e compartilhar o conhecimento que impulsiona mi
 📂 **/Históricos**  
 > Materiais de cursos, colóquios e conferências.
 
+📘 **Temas principais:**
+- Matemática Aplicada e Modelagem 💎  
+- Finanças e Risco Sistêmico 📊  
+- Sistemas Dinâmicos e Caos 🌀  
+- Machine Learning e Data Science 🤖  
+- Métodos Numéricos e Cálculo 🔢  
+- Filosofia da Matemática ✨  
 ---
 
 ## 💫 Propósito
@@ -67,31 +75,7 @@ O **MathVault** nasce do desejo de preservar o que é raro: a memória do estudo
 
 ---
 
-## 🌟 Sobre o Repositório
-
-Este repositório é meu **acervo pessoal de leituras, livros e referências** sobre matemática aplicada, finanças quânticas, sistemas dinâmicos, estatística, programação científica e arte matemática.  
-Cada documento aqui é parte da minha trajetória de pesquisa e curiosidade infinita. ♾️💫  
-
-📘 **Temas principais:**
-- Matemática Aplicada e Modelagem 💎  
-- Finanças e Risco Sistêmico 📊  
-- Sistemas Dinâmicos e Caos 🌀  
-- Machine Learning e Data Science 🤖  
-- Métodos Numéricos e Cálculo 🔢  
-- Filosofia da Matemática ✨  
-
----
-
-## 🪐 Organização
-
-📂 **/Livros** → PDFs e textos teóricos  
-📂 **/Notas** → Anotações pessoais, resumos e comentários  
-📂 **/Referências** → Citações e referências formatadas (BibTeX/APA)  
-📂 **/Imagens** → Capas e diagramas ilustrativos  
-
----
-
-## 🧭 Propósito
+## 🪐 🧭
 
 > “Guardar não é acumular — é preservar o brilho do conhecimento que inspira.” 💙  
 
