@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/💫_Knowledge_Repository-0A3D91?style=for-the-badge&labelColor=001F3F&color=1E90FF">
   <img src="https://img.shields.io/badge/📚_Scientific_Collection-FFD700?style=for-the-badge&labelColor=0E1A40&color=DAA520">
-  <img src="https://img.shields.io/badge/♾️_Math-Dynamics-FF69B4?style=for-the-badge&labelColor=0A3D91&color=87CEEB">
+  <img src="https://img.shields.io/badge/♾️_Math-Dynamics-FF69B4?style=for-the-badge&labelColor=0A3D91&color=87CEEB">   
 </p>
 
 ---
