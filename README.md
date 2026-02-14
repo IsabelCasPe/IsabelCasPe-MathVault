@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">💎 MathVault ♾️📚</h1>
-<h3 align="center">@IsabelCasPe – Maths 🌌</h3>
+<h3 align="center">@IsabelCasPe - Maths 🌌</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/💫_Knowledge_Repository-0A3D91?style=for-the-badge&labelColor=001F3F&color=1E90FF"> 
@@ -20,7 +20,7 @@
 Um espaço para guardar, estudar e compartilhar o conhecimento que impulsiona minhas pesquisas e inspira novas ideias. 💡✨  
 Cada documento aqui é parte da minha trajetória de pesquisa e curiosidade infinita. ♾️💫 
 
-> “O universo se expande, e o saber também.” — @IsabelCasPe
+> “O universo se expande, e o saber também.” - @IsabelCasPe
 
 ---
 
@@ -49,18 +49,18 @@ Cada documento aqui é parte da minha trajetória de pesquisa e curiosidade infi
 # 💎 MathVault ♾️📚  
 ### @IsabelCasPe – Math-Dynamics 🌌  
 
-> “O universo se expande — e o saber também.”  
+> “O universo se expande, e o saber também.”  
 
 ---
 
 ## 📘 Inteligência Artificial & Machine Learning  
 - [Artificial Intelligence Foundations of Computational Agents (3rd Ed.)](Artificial%20Intelligence%20Foundations%20of%20Computational%20Agents,%203rd%20Edition%20.pdf)  
-- [Before Machine Learning Vol.1 – Linear Algebra for A.I](Before%20Machine%20Learning%20Volume%201%20-%20Linear%20Algebra%20for%20A.I.pdf)  
-- [Before Machine Learning Vol.2 – Calculus](Before%20Machine%20Learning%20Vol%202_%20Calculus.pdf)  
-- [Deep Learning Fundamentals – Chao Pan (2016)](Deep%20learning%20fundamentals%20_%20an%20introduction%20for%20beginners%20--%20Chao%20Pan%20--%20England,%202016.pdf)  
-- [DeepSeek-R1 Thoughtology – Let’s Think About LLM Reasoning](DeepSeek-R1%20ThoughtologyLet’s%20think%20about%20LLM%20reasoning%20.pdf)  
+- [Before Machine Learning Vol.1 - Linear Algebra for A.I](Before%20Machine%20Learning%20Volume%201%20-%20Linear%20Algebra%20for%20A.I.pdf)  
+- [Before Machine Learning Vol.2 - Calculus](Before%20Machine%20Learning%20Vol%202_%20Calculus.pdf)  
+- [Deep Learning Fundamentals - Chao Pan (2016)](Deep%20learning%20fundamentals%20_%20an%20introduction%20for%20beginners%20--%20Chao%20Pan%20--%20England,%202016.pdf)  
+- [DeepSeek-R1 Thoughtology - Let’s Think About LLM Reasoning](DeepSeek-R1%20ThoughtologyLet’s%20think%20about%20LLM%20reasoning%20.pdf)  
 - [Machine Learning Quick Reference (Packt, 2019)](Machine%20Learning%20Quick%20Reference_%20Quick%20and%20essential%20machine%20learning%20hacks%20for%20training%20smart%20data%20models%20(2019,%20Packt%20Publishing)%20-%20libgen.li.pdf)  
-- [Machine Learning with Neural Networks – An Introduction for Scientists and Engineers](Machine%20Learning%20with%20Neural%20Networks%20An%20Introduction%20for%20Scientists%20and%20Engineers.pdf)  
+- [Machine Learning with Neural Networks - An Introduction for Scientists and Engineers](Machine%20Learning%20with%20Neural%20Networks%20An%20Introduction%20for%20Scientists%20and%20Engineers.pdf)  
 - [Practical AI for Business Leaders (De Gruyter, 2022)](Practical%20AI%20for%20Business%20Leaders,%20Product%20Managers,%20and%20Entrepreneurs%20(2022,%20De%20Gruyter)%20-%20libgen.li.pdf)  
 
 ---
@@ -86,22 +86,22 @@ Cada documento aqui é parte da minha trajetória de pesquisa e curiosidade infi
 
 ## 💻 Engenharia de Software & Computação em Nuvem  
 - [Building Modern Business Applications](Building%20Modern%20Business%20Applications%20Reactive%20Cloud%20Architecture%20for%20Java,%20Spring,%20and%20PostgreSQL.pdf)  
-- [Cloud Network Management – An IoT Based Framework](Cloud%20Network%20Management%20An%20IoT%20Based%20Framework.pdf)  
+- [Cloud Network Management - An IoT Based Framework](Cloud%20Network%20Management%20An%20IoT%20Based%20Framework.pdf)  
 - [Microservices for Java Developers](Microservices%20for%20Java%20Developers%20.pdf)  
 - [Think Like a Software Engineering Manager](Think%20Like%20a%20Software%20Engineering%20Manager%20.pdf)  
 
 ---
 
 ## 🔍 Text Mining, NLP & Visualização  
-- [Text Mining and Visualization – Case Studies Using Open-Source Tools](Text%20Mining%20and%20Visualization%20Case%20Studies%20Using%20Open-Source%20Tools.pdf)  
-- [Text Mining with Machine Learning – Principles and Techniques](Text%20Mining%20with%20Machine%20Learning_%20Principles%20and%20Techniques%20(2019,%20Taylor%20&%20Francis%20Ltd)%20-%20libgen.li.pdf)  
+- [Text Mining and Visualization - Case Studies Using Open-Source Tools](Text%20Mining%20and%20Visualization%20Case%20Studies%20Using%20Open-Source%20Tools.pdf)  
+- [Text Mining with Machine Learning - Principles and Techniques](Text%20Mining%20with%20Machine%20Learning_%20Principles%20and%20Techniques%20(2019,%20Taylor%20&%20Francis%20Ltd)%20-%20libgen.li.pdf)  
 - [Graphical Models](Graphical%20Models.pdf)  
 
 ---
 
 ## 🌐 Dados, Sociedade e Interdisciplinaridade  
-- [Big Data and Archaeology – Proceedings of the XVIII UISPP](Big%20data%20and%20archaeology%20_%20proceedings%20of%20the%20XVIII%20UISPP.pdf)  
-- [Quantum Computing Strategy – Foundations and Applicability](Quantum%20Computing%20Strategy%20Foundations%20and%20Applicability.pdf)  
+- [Big Data and Archaeology - Proceedings of the XVIII UISPP](Big%20data%20and%20archaeology%20_%20proceedings%20of%20the%20XVIII%20UISPP.pdf)  
+- [Quantum Computing Strategy - Foundations and Applicability](Quantum%20Computing%20Strategy%20Foundations%20and%20Applicability.pdf)  
 - [Game Theory](Game%20Theory.pdf)  
 - [Graphs, Algorithms, and Optimization (2nd Ed.)](Graphs,%20Algorithms,%20and%20Optimization,%20Second%20Edition.pdf)  
 
@@ -111,7 +111,7 @@ Cada documento aqui é parte da minha trajetória de pesquisa e curiosidade infi
 ## 💫 Propósito
 
 O **MathVault** nasce do desejo de preservar o que é raro: a memória do estudo, da curiosidade e da criação intelectual.  
-É uma constelação de ideias — cada livro, uma estrela; cada paper, uma órbita de saber. 🌌  
+É uma constelação de ideias - cada livro, uma estrela; cada paper, uma órbita de saber. 🌌  
 
 ---
 
@@ -119,7 +119,7 @@ O **MathVault** nasce do desejo de preservar o que é raro: a memória do estudo
 
 <p align="center">
   <i>“A arte de aprender é também a arte de lembrar o que nos move.”</i><br>
-  <b>@IsabelCasPe – Math-Dynamics 💎♾️</b>
+  <b>@IsabelCasPe - Math-Dynamics 💎♾️</b>
 </p>
 
 ---
@@ -128,7 +128,7 @@ O **MathVault** nasce do desejo de preservar o que é raro: a memória do estudo
   <img src="https://github.com/IsabelCasPe/IsabelCasPe/blob/main/Applied_Maths.png" width="100%">
 </p>
 
-<h1 align="center">💎 MathVault ♾️ — @IsabelCasPe</h1>
+<h1 align="center">💎 MathVault ♾️ - @IsabelCasPe</h1>
 
 <p align="center">
   <em>“Entre equações e estrelas, cada livro é uma órbita de sabedoria.”</em> 🌌📚  
@@ -138,10 +138,10 @@ O **MathVault** nasce do desejo de preservar o que é raro: a memória do estudo
 
 ## 🪐 🧭
 
-> “Guardar não é acumular — é preservar o brilho do conhecimento que inspira.” 💙  
+> “Guardar não é acumular, é preservar o brilho do conhecimento que inspira.” 💙  
 
 O **MathVault** nasce como um espaço de estudo, reflexão e memória.  
-Uma biblioteca viva, onde ciência e arte se encontram — no mesmo ritmo do *Math-Dynamics*. ⚛️🌌  
+Uma biblioteca viva, onde ciência e arte se encontram - no mesmo ritmo do *Math-Dynamics*. ⚛️🌌  
 
 ---
 
@@ -157,11 +157,11 @@ Uma biblioteca viva, onde ciência e arte se encontram — no mesmo ritmo do *Ma
 </p>
 
 <p align="center">
-  <em>“A matemática é o código secreto do universo — e este é meu cofre.”</em> 🔐✨  
+  <em>“A matemática é o código secreto do universo - e este é meu cofre.”</em> 🔐✨  
 </p>
 
 <p align="center">
   💎 “Entre equações e estrelas, nasce a compreensão do infinito.” 🌌  
-  <b>@IsabelCasPe – Math-Dynamics</b>  
+  <b>@IsabelCasPe - Math-Dynamics</b>  
 </p>
 
