@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">💎 MathVault ♾️📚</h1>
-<h3 align="center">@IsabelCasPe - Maths 🌌</h3>
+<h3 align="center">@IsabelCasPe - Maths 🌌</h3> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/💫_Knowledge_Repository-0A3D91?style=for-the-badge&labelColor=001F3F&color=1E90FF"> 
