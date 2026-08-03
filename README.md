@@ -147,7 +147,7 @@ Uma biblioteca viva, onde ciência e arte se encontram - no mesmo ritmo do *Math
 
 ## 💻 Créditos
 
-📚 Curadoria e organização: **@IsabelCasPe – Maths**  
+📚 Curadoria e organização: **@IsabelCasPe - Maths**  
 🌌 Design & identidade visual: **Math-Dynamics Project**
 
 ---
